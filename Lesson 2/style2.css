@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.margin {
+  width: 500px;
+  height: 400px;
+  background-color: #F7CDA0;
+  border: 3px dashed black;
+  padding: 50px;
+}
+
+.border {
+  background-color: #FCDC9E;
+  border: 3px solid black;
+  height: 100%;
+  padding: 50px;
+}
+
+.padding {
+  background-color: #C2CF8E;
+  border: 3px dashed #80807E;
+  height: 100%;
+  padding: 50px;
+}
+
+.content {
+  background-color: #8DB6C0;
+  border: 3px solid #7C7F80;
+  height: 100%;
+}

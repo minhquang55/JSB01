@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* div {
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+  padding: 50px;
+} */
+
+.box-hello {
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+  padding: 50px;
+}
+
+#box-goodbye {
+  width: 200px;
+  height: 200px;
+  background-color: #F7CDA0;
+  margin: 50px 0;
+}
