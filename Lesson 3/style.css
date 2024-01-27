@@ -1,0 +1,38 @@
+#title {
+  color: gray;
+}
+
+.title {
+  color: brown;
+}
+
+h1 {
+  color: aliceblue;
+}
+
+.title {
+  color: aqua;
+}
+
+.box > p {
+  color: aqua;
+}
+
+.box > p:first-of-type {
+  color: red;
+}
+
+.squared {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin: 0 auto;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.squared:hover {
+  background-color: blue;
+  scale: 1.2;
+}
+

@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Mono", monospace;
+}
+
+.wrapper {
+  padding: 30px 200px;
+}
+
+.navbar {
+  background-color: black;
+  position: sticky;
+  top: 0;
+}
+
+.nav-item {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: 12px 18px;
+  font-size: 22px;
+}
+
+.nav-item:hover {
+  color: black;
+  background-color: gainsboro;
+}
+
+.slide {
+  height: 700px;
+  background-color: gray;
+}
+
+.about-content h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.about-content p {
+  font-size: 20px;
+}
+
+.member-content h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.band-members {
+  display: flex;
+  justify-content: space-around;
+}

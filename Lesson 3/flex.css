@@ -1,0 +1,16 @@
+.box {
+  height: 100px;
+  width: 300px;
+  background-color: grey;
+}
+
+.wrapper {
+  display: flex;
+  /* flex-direction: column-reverse; */
+  height: 200px;
+  background-color: antiquewhite;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
